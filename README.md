@@ -1,5 +1,5 @@
 
-<h2 align="center">Kendall Corrales Sánchez🚀</h2>
+<h2 align="center">Kendall Corrales Sánchez</h2>
 
 
 
@@ -44,9 +44,3 @@ Hi, I'm student engineer at Ulatina de San Pedro, Costa Rica. Passionate about s
 <p align="center">
   <a href="https://www.linkedin.com/in/kendall-corrales-s%C3%A1nchez-bbba6a292/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
-
-<!--Header Name GIF or Animation-->
-<div align="center">
-  <img src="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2014/06/GIF.gif?fit=640%2C360&ssl=1](https://media.tenor.com/PycJZfRcX_gAAAAM/increible-hora-de-aventura.gif" alt="Title" ,  style="width: 75vmax; "></img>
-</div>
-
