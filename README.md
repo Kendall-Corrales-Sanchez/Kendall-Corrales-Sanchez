@@ -8,16 +8,12 @@
 
 Hi, I'm student engineer at Ulatina de San Pedro, Costa Rica. Passionate about software development, network, IT Support. I love building projects that solve real-world problems.  
 <br>
-<br>
  What I Do  <br>
  Proficient in: backend with all lenguage but I know abount with Java than other lenguages.<br>
-<br>
 <br>
  Looking For  <br>
  Exciting development opportunities or trainer  <br>
  Learning new technologies and staying updated with industry trends  
-
-<br><br>
 
 
 <!---Language-->
